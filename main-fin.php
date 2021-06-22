@@ -29,12 +29,5 @@ $film = [
         'year'    => 2021,
         'genre'   => 'Action',
         'trailer' => 'https://www.youtube.com/embed/Fp9pNPdNwjI'
-    ],
-    [
-        'photo'   => 'https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg',
-        'title'   => 'Godzilla vs Kong',
-        'year'    => 2021,
-        'genre'   => 'Action',
-        'trailer' => 'https://www.youtube.com/embed/odM92ap8_c0'
     ]
 ];
